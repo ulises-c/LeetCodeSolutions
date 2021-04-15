@@ -4,4 +4,4 @@
 My LeetCode profile - https://leetcode.com/uli-oli/
 
 Currently not solved:
-1002
+- 1002
