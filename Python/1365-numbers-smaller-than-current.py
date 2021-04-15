@@ -2,7 +2,6 @@
 
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        nums_set = set(nums)
         smaller_list = []
         for num in nums:
             amt_smaller = 0
